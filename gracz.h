@@ -1,4 +1,4 @@
-//przeciązanie operatorów ':', '<' i '=='
+//przeciązanie operatorów '<' i '=='
 #ifndef GRACZ_H
 #define GRACZ_H
 
